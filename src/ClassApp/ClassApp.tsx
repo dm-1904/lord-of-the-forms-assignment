@@ -21,7 +21,8 @@ export class ClassApp extends Component<Record<string, never>, State> {
           userData={
             // toggle the following lines to change
             // null
-            defaultUser
+            // defaultUser
+            null
           }
         />
         <ClassForm />

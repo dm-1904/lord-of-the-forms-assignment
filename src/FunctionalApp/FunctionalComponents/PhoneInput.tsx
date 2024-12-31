@@ -1,4 +1,4 @@
-import React, { ChangeEventHandler, useRef, useState } from "react";
+import React, { ChangeEventHandler, useRef } from "react";
 
 interface ChildComponentProps {
   phoneInputState: PhoneInputState;
